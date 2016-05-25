@@ -1,0 +1,44 @@
+{
+  "name": "bankerup.me",
+  "version": "0.0.1",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bankerup/bankerup.me.git"
+  },
+  "keywords": [
+    "bankerup",
+    "mohammed",
+    "maher",
+    "web",
+    "nodejs",
+    "php",
+    "javascript",
+    "programming",
+    "developer",
+    "css",
+    "less",
+    "ajax",
+    "js",
+    "html",
+    "html5",
+    "json",
+    "xml",
+    "restful",
+    "rest",
+    "API",
+    "SPA",
+    "istanbul",
+    "turkey"
+  ],
+  "author": "Mohammed Maher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bankerup/bankerup.me/issues"
+  },
+  "homepage": "https://github.com/bankerup/bankerup.me#readme"
+}
